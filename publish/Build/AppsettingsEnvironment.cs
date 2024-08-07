@@ -1,0 +1,5 @@
+﻿enum AppsettingsEnvironment
+{
+    Development,
+    Production
+}
