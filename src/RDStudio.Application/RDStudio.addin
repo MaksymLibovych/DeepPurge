@@ -1,0 +1,11 @@
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>RDStudio</Name>
+		<Assembly>RDStudio.Application/RDStudio.Application.dll</Assembly>
+		<AddInId>13930E14-C915-4246-8873-BF30C9080F46</AddInId>
+		<Text>RDStudio Text</Text>
+		<FullClassName>RDStudio.Application.Application</FullClassName>
+		<VendorId>RDStudio VendorId</VendorId>
+		<VendorDescription>RDStudio VendorDescription</VendorDescription>
+	</AddIn>
+</RevitAddIns>
